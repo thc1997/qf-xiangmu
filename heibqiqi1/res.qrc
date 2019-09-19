@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sucai/._屏幕快照 2019-08-27 上午10.06.52.png</file>
+        <file>sucai/._屏幕快照 2019-08-27 下午12.30.49.png</file>
+        <file>sucai/.DS_Store</file>
+        <file>sucai/01</file>
+        <file>sucai/01.jpg</file>
+        <file>sucai/02.jpg</file>
+        <file>sucai/03.jpg</file>
+        <file>sucai/bc.png</file>
+        <file>sucai/beijing.jpg</file>
+        <file>sucai/onep.png</file>
+        <file>sucai/qipan.jpg</file>
+        <file>sucai/twop.png</file>
+        <file>sucai/wc.png</file>
+        <file>sucai/rc.png</file>
+        <file>sucai/gc.png</file>
+        <file>sucai/gc1.png</file>
+        <file>sucai/gc2.png</file>
+        <file>sucai/qizia.mp3</file>
+        <file>sucai/music.mp3</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\widget.o
+./release\register.o
+./release\zhujiemian.o
+./release\youxi.o
+./release\playgame.o
+./release\qrc_res.o
+./release\moc_widget.o
+./release\moc_register.o
+./release\moc_zhujiemian.o
+./release\moc_youxi.o
+./release\moc_playgame.o
+);

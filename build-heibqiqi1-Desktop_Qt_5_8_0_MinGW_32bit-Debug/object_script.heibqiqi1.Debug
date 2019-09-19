@@ -1,0 +1,14 @@
+INPUT(
+./debug\main.o
+./debug\widget.o
+./debug\register.o
+./debug\zhujiemian.o
+./debug\youxi.o
+./debug\playgame.o
+./debug\qrc_res.o
+./debug\moc_widget.o
+./debug\moc_register.o
+./debug\moc_zhujiemian.o
+./debug\moc_youxi.o
+./debug\moc_playgame.o
+);
